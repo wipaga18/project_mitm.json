@@ -1,5 +1,3 @@
-# project_mitm.json
- CS 6035
 {
 	"task1.1": "<irc.w3.org>",
 	"task1.2": "<DarkSoulz,OffThaIns,TheSkull>",
