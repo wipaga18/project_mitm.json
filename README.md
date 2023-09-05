@@ -7,7 +7,7 @@
 	"task2.2": "AES",
 	"task2.3": "<copy flag 7 here>",
 	"task3.1": "necrocryptors.com",
-	"task3.2": "168.63.129.16",
+	"task3.2": "20.49.56.195",
 	"task3.3": "<copy flag 10 here>",
 	"task3.4": "<copy flag 11 here>",
 	"task4.1": "10.0.0.7",
