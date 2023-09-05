@@ -14,7 +14,7 @@
 	"task4.2": "mydude",
 	"task4.3": "I4mNoTwH0YTY4!",
 	"task4.4": "yeahyoufoundme",
-	"task4.5": "Binary",
+	"task4.5": "Base64",
 	"task4.6": "<copy flag 17 here>",
 	"task5.1": "<copy flag 18 here>",
 	"task5.2": "<copy flag 19 here>",
