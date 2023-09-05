@@ -4,7 +4,7 @@
 	"task1.3": "#tnc22",
 	"task1.4": "Bc6e547fa5333adf8709439a92a484d9",
 	"task2.1": "hello.sup",
-	"task2.2": "LAG",
+	"task2.2": "AES",
 	"task2.3": "<copy flag 7 here>",
 	"task3.1": "necrocryptors.com",
 	"task3.2": "168.63.129.16",
