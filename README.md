@@ -15,7 +15,7 @@
 	"task4.3": "I4mNoTwH0YTY4!",
 	"task4.4": "yeahyoufoundme",
 	"task4.5": "python",
-	"task4.6": "110101111000001010001101100000",
+	"task4.6": "903914336aaaa",
 	"task5.1": "<copy flag 18 here>",
 	"task5.2": "<copy flag 19 here>",
 	"task5.3": "<copy flag 20 here>"
