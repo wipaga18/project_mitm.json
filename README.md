@@ -8,7 +8,7 @@
 	"task2.3": "xcE",
 	"task3.1": "necrocryptors.com",
 	"task3.2": "20.49.56.195",
-	"task3.3": "ns-cloud-c2.googledomains.com",
+	"task3.3": "ns-cloud-e2.googledomains.com",
 	"task3.4": "<copy flag 11 here>",
 	"task4.1": "10.0.0.7",
 	"task4.2": "mydude",
